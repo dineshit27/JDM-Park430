@@ -42,8 +42,8 @@
 ## 🙋‍♂️ About the Creator
 
 Designed and developed by **Dinesh M**  
-🎨 Creative Designer @ [JDMStudio430](https://github.com/yourgithubusername)  
-📚 Passionate about design, development & user experience
+[view profile](https://github.com/dineshit27/)  
+
 
 ---
 
