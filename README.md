@@ -2,6 +2,13 @@
 
 **JDM Park** is a modern and elegant hotel e-commerce website, designed to offer a smooth and visually stunning booking experience for users. Built with **HTML, CSS, and JavaScript**, it provides a stylish front-end interface for room bookings, showcasing services, amenities, and seamless navigation.
 
+[![Demo](https://img.shields.io/badge/demo-Experience%20Our%20Work-brightgreen)](https://jdm-park.netlify.app/))
+
+
+![GitHub stars](https://img.shields.io/github/stars/dineshit27/JDM-Park430?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dineshit27/JDM-Park430?style=social)
+![License](https://img.shields.io/github/license/dineshit27/JDM-Park430style=social)
+
 ---
 
 ## ✨ Features
