@@ -5,9 +5,9 @@
 [![Demo](https://img.shields.io/badge/demo-Experience%20Our%20Work-brightgreen)](https://jdm-park.netlify.app/)
 
 
-![GitHub stars](https://img.shields.io/github/stars/dineshit27/JDM-Park430?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dineshit27/JDM-Park430?style=social)
-![License](https://img.shields.io/github/license/dineshit27/JDM-Park430style=social)
+![GitHub stars](https://img.shields.io/github/stars/dineshit27/TechnoHacks-JDM-Park430?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dineshit27/TechnoHacks-JDM-Park430?style=social)
+![License](https://img.shields.io/github/license/dineshit27/TechnoHacks-JDM-Park430style=social)
 
 ---
 
