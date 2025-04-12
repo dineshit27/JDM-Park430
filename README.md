@@ -1,4 +1,4 @@
-# 🏨 JDM Park – Hotel E-commerce Website
+# 🏨 JDM Park – Hotel Landing Page
 
 **JDM Park** is a modern and elegant hotel e-commerce website, designed to offer a smooth and visually stunning booking experience for users. Built with **HTML, CSS, and JavaScript**, it provides a stylish front-end interface for room bookings, showcasing services, amenities, and seamless navigation.
 
